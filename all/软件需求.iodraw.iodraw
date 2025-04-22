@@ -64,11 +64,17 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-51" target="8YKnZfO1W7riW2jKl6c7-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-51" target="8YKnZfO1W7riW2jKl6c7-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8YKnZfO1W7riW2jKl6c7-51" value="需要检查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="224" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8YKnZfO1W7riW2jKl6c7-53" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="343" width="73" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-55" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="343" width="74" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
