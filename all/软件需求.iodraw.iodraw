@@ -13,11 +13,17 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-33" target="8YKnZfO1W7riW2jKl6c7-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-33" target="8YKnZfO1W7riW2jKl6c7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8YKnZfO1W7riW2jKl6c7-33" value="选择挂号方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="131.5" y="91" width="117" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="8YKnZfO1W7riW2jKl6c7-36" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-36" value="线上挂号" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="168" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-38" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="168" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
