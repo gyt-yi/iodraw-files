@@ -73,7 +73,7 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-53" value="进行检查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="343" width="73" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8YKnZfO1W7riW2jKl6c7-55" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-55" value="开具处方" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="344" width="74" height="28" as="geometry" />
         </mxCell>
       </root>
