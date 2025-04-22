@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="6">
   <diagram id="34AQZB-1UyU8MLN4ydGe" name="医院就诊">
     <mxGraphModel dx="949" dy="1115" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,6 +376,80 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KFjRm6C9mQwMTnqaXe63" name="第 5 页">
+    <mxGraphModel dx="522" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2LectGR_-2XKyqC9xwSB-1" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="94" y="20" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-2" value="设置采集参数" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="77" y="118" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-3" value="开始采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="93" y="217" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-4" value="数据完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="81" y="315" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-5" value="保存数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="507" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-6" value="重新采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="166" y="507" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-7" value="E/F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="20" width="86" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-8" value="结束采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="254" y="118" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-1" target="2LectGR_-2XKyqC9xwSB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-2" target="2LectGR_-2XKyqC9xwSB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-3" target="2LectGR_-2XKyqC9xwSB-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-4" target="2LectGR_-2XKyqC9xwSB-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="68" y="471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-13" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-4" target="2LectGR_-2XKyqC9xwSB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LectGR_-2XKyqC9xwSB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="2LectGR_-2XKyqC9xwSB-7" target="2LectGR_-2XKyqC9xwSB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0lkgepMhjeNeOjh3svn5" name="第 7 页">
+    <mxGraphModel dx="522" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
