@@ -450,6 +450,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="18YI-g_je5E_pyX5MLrN-1" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="20" width="108" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-2" value="添加班级信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="118" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-3" value="修改班级信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="197" y="118" width="128" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-4" value="删除班级信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="374" y="118" width="128" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-5" value="查询班级信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="552" y="118" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-6" value="B/C/D/E" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="715" y="20" width="122" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-7" value="保存更改" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="729" y="118" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="18YI-g_je5E_pyX5MLrN-1" target="18YI-g_je5E_pyX5MLrN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="18YI-g_je5E_pyX5MLrN-1" target="18YI-g_je5E_pyX5MLrN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="18YI-g_je5E_pyX5MLrN-1" target="18YI-g_je5E_pyX5MLrN-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="18YI-g_je5E_pyX5MLrN-1" target="18YI-g_je5E_pyX5MLrN-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18YI-g_je5E_pyX5MLrN-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="18YI-g_je5E_pyX5MLrN-6" target="18YI-g_je5E_pyX5MLrN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
