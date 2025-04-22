@@ -49,8 +49,14 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-46" value="E/G" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="497" y="21" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-47" target="8YKnZfO1W7riW2jKl6c7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8YKnZfO1W7riW2jKl6c7-47" value="候诊区等待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="91" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-49" value="医生问诊" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="147" width="120" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
