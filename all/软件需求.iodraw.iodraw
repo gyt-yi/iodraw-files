@@ -265,6 +265,84 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-1" value="ATM取款用例" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="21" y="21" width="751" height="401" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-2" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="365" y="46" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-3" value="插入银行卡" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="43" y="169" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-4" value="输入密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="203" y="169" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-5" value="选择取款金额" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="347" y="169" width="128" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-6" value="取现金" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="525" y="169" width="79" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-7" value="退卡" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="653" y="169" width="63" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-8" value="验证密码" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="203" y="315" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-9" value="检查余额" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="363" y="315" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-10" value="打印凭条" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="jy2Te2uAZ0ANg0dP9hkr-1">
+          <mxGeometry x="516" y="315" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-2" target="jy2Te2uAZ0ANg0dP9hkr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-2" target="jy2Te2uAZ0ANg0dP9hkr-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-2" target="jy2Te2uAZ0ANg0dP9hkr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-2" target="jy2Te2uAZ0ANg0dP9hkr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-2" target="jy2Te2uAZ0ANg0dP9hkr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-16" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-4" target="jy2Te2uAZ0ANg0dP9hkr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-17" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-5" target="jy2Te2uAZ0ANg0dP9hkr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jy2Te2uAZ0ANg0dP9hkr-18" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="jy2Te2uAZ0ANg0dP9hkr-1" source="jy2Te2uAZ0ANg0dP9hkr-6" target="jy2Te2uAZ0ANg0dP9hkr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
