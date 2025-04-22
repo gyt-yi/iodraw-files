@@ -447,6 +447,79 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-1" value="数据采集系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="21" y="21" width="729" height="401" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-2" value="系统管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="128" y="46" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-3" value="配置采集任务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="46" y="169" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-4" value="监控采集状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="223" y="169" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-5" value="数据分析师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="476" y="46" width="142" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-6" value="设置清洗规则" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="399" y="169" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-7" value="导出数据集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="575" y="169" width="111" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-8" value="设置采集频率" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="47" y="315" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-9" value="异常报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="239" y="315" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-10" value="数据去重" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="MuzRFZ1gv7yryVhlYmJJ-1">
+          <mxGeometry x="414" y="315" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-2" target="MuzRFZ1gv7yryVhlYmJJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-2" target="MuzRFZ1gv7yryVhlYmJJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-5" target="MuzRFZ1gv7yryVhlYmJJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-5" target="MuzRFZ1gv7yryVhlYmJJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="631" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-15" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-3" target="MuzRFZ1gv7yryVhlYmJJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-16" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-4" target="MuzRFZ1gv7yryVhlYmJJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuzRFZ1gv7yryVhlYmJJ-17" value="&amp;lt;&amp;gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="MuzRFZ1gv7yryVhlYmJJ-1" source="MuzRFZ1gv7yryVhlYmJJ-6" target="MuzRFZ1gv7yryVhlYmJJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
