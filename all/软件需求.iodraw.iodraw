@@ -34,8 +34,17 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-40" value="选择科室/医生" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="273" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YKnZfO1W7riW2jKl6c7-42" target="8YKnZfO1W7riW2jKl6c7-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8YKnZfO1W7riW2jKl6c7-42" value="排队取号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="273" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-44" value="分诊台登记" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="388" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-46" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="294" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
