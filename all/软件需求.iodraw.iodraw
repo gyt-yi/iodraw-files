@@ -106,6 +106,157 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-1" value="医院就诊系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="28" y="21" width="1579" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-2" value="患者" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="280" y="46" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-3" value="挂号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="43" y="175" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-4" value="就诊" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="186" y="175" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-5" value="缴费" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="329" y="175" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-6" value="取药" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="1139" y="175" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-7" value="医生" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="966" y="46" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-8" value="开具处方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="282" y="306" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-9" value="安排检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="1410" y="175" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-10" value="护士" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="613" y="176" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-11" value="分诊" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="518" y="306" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-12" value="输液" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="662" y="306" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-13" value="管理员" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="923" y="168" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-14" value="病历管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="804" y="306" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-15" value="排班管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="979" y="306" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-16" value="药剂师" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="1281" y="168" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-17" value="配药" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="1203" y="306" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-18" value="检查报告管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-1">
+          <mxGeometry x="1394" y="306" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-2" target="UI4vdKD_0gdfMPhnC85C-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="89" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-2" target="UI4vdKD_0gdfMPhnC85C-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-2" target="UI4vdKD_0gdfMPhnC85C-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.52;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-2" target="UI4vdKD_0gdfMPhnC85C-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1185" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.55;entryX=0.86;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-7" target="UI4vdKD_0gdfMPhnC85C-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="456" y="130" />
+              <mxPoint x="456" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.55;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-7" target="UI4vdKD_0gdfMPhnC85C-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1473" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-10" target="UI4vdKD_0gdfMPhnC85C-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-10" target="UI4vdKD_0gdfMPhnC85C-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-13" target="UI4vdKD_0gdfMPhnC85C-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="867" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-13" target="UI4vdKD_0gdfMPhnC85C-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1042" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.78;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-16" target="UI4vdKD_0gdfMPhnC85C-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1313" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-30" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.15;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-4" target="UI4vdKD_0gdfMPhnC85C-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-31" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.23;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-6" target="UI4vdKD_0gdfMPhnC85C-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1185" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI4vdKD_0gdfMPhnC85C-32" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-1" source="UI4vdKD_0gdfMPhnC85C-9" target="UI4vdKD_0gdfMPhnC85C-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
