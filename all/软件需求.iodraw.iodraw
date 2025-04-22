@@ -1,106 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="5">
-  <diagram id="F_4qsjSx4BMftgOKM6rU" name="数据采集">
-    <mxGraphModel dx="522" dy="613" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="148" y="21" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-2" value="配置采集参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="116" y="119" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-3" value="定时触发?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="135" y="218" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-4" value="等待触发时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="21" y="409" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-5" value="立即执行" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="228" y="409" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-6" value="D/E" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="540" y="21" width="87" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-7" value="建立网络连接" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="506" y="119" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-8" value="认证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="525" y="218" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-9" value="记录错误日志" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="403" y="409" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-10" value="获取原始数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="609" y="409" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-11" value="数据清洗转换" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="609" y="507" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-12" value="存储到数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="609" y="606" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-1" target="4v1BOqz7ela1uhz_jzbH-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-2" target="4v1BOqz7ela1uhz_jzbH-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-3" target="4v1BOqz7ela1uhz_jzbH-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-3" target="4v1BOqz7ela1uhz_jzbH-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-6" target="4v1BOqz7ela1uhz_jzbH-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-7" target="4v1BOqz7ela1uhz_jzbH-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-8" target="4v1BOqz7ela1uhz_jzbH-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="481" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-8" target="4v1BOqz7ela1uhz_jzbH-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="687" y="373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-10" target="4v1BOqz7ela1uhz_jzbH-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4v1BOqz7ela1uhz_jzbH-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="4v1BOqz7ela1uhz_jzbH-11" target="4v1BOqz7ela1uhz_jzbH-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="4">
   <diagram id="34AQZB-1UyU8MLN4ydGe" name="医院就诊">
     <mxGraphModel dx="949" dy="1115" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +153,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="eta01KzqIPHbeykwiVib" name="第 4 页">
+  <diagram id="eta01KzqIPHbeykwiVib" name="3-5">
     <mxGraphModel dx="522" dy="613" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
