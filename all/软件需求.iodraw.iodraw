@@ -113,7 +113,7 @@
           <mxGeometry x="63" y="313" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UI4vdKD_0gdfMPhnC85C-35" value="用例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-33">
-          <mxGeometry x="28" y="259" width="1056" height="343" as="geometry" />
+          <mxGeometry x="28" y="602" width="1056" height="14" as="geometry" />
         </mxCell>
         <mxCell id="UI4vdKD_0gdfMPhnC85C-36" value="患者" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-33">
           <mxGeometry x="133" y="91" width="47" height="47" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="476" y="452" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="UI4vdKD_0gdfMPhnC85C-52" value="参与者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="UI4vdKD_0gdfMPhnC85C-33">
-          <mxGeometry x="38" y="45" width="1093" height="88" as="geometry" />
+          <mxGeometry x="38" y="45" width="1093" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UI4vdKD_0gdfMPhnC85C-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="UI4vdKD_0gdfMPhnC85C-33" source="UI4vdKD_0gdfMPhnC85C-36" target="UI4vdKD_0gdfMPhnC85C-34">
           <mxGeometry relative="1" as="geometry">
