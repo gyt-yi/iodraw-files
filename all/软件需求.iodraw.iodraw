@@ -34,7 +34,7 @@
         <mxCell id="8YKnZfO1W7riW2jKl6c7-40" value="选择科室/医生" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="273" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8YKnZfO1W7riW2jKl6c7-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8YKnZfO1W7riW2jKl6c7-42" value="排队取号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="273" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
