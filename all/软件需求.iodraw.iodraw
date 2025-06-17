@@ -512,8 +512,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ogNW8q_7m6HMiKWwe6ul-1" value="" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="60" height="80" as="geometry" />
+        <mxCell id="ogNW8q_7m6HMiKWwe6ul-1" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
