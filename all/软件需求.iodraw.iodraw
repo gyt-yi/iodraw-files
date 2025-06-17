@@ -533,8 +533,14 @@
         <mxCell id="ogNW8q_7m6HMiKWwe6ul-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ogNW8q_7m6HMiKWwe6ul-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ogNW8q_7m6HMiKWwe6ul-16" target="ogNW8q_7m6HMiKWwe6ul-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ogNW8q_7m6HMiKWwe6ul-16" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogNW8q_7m6HMiKWwe6ul-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
